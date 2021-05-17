@@ -1,0 +1,5 @@
+git checkout -b fenzhi_1 #新建并切换分支
+git checkout master      #切换回主干
+git branch -d fenzhi_2   #删除分支
+git switch fenzhi_2      #切换到分支
+git branch fenzhi        #创建分支
